@@ -43,16 +43,14 @@ I would explore:
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
-
+![model_test_score ](https://github.com/user-attachments/assets/42d78348-ec49-4021-8a53-3ddacc30e58c)
 
 
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+
 
 ## Summary
 This project demonstrated how feature engineering can have a larger impact than hyperparameter tuning. Using AutoGluon allowed for rapid model development, and even with minimal tuning, significant performance improvements were achieved through thoughtful feature design.
