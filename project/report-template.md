@@ -49,6 +49,8 @@ I would explore:
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
+![model_train_score (1)](https://github.com/user-attachments/assets/4c336337-f3af-48ff-bcb7-4d448e7bdcae)
+
 
 
 
